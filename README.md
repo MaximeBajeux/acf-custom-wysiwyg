@@ -1,1 +1,1 @@
-# That is juste a shitty POC
+# That is just a shitty POC
